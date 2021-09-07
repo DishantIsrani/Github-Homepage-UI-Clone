@@ -2,4 +2,4 @@
 
 ## GITHUB CLONE TASK 1
 
-https://dishantisrani.github.io/MAD-WebDev/
+https://dishantisrani.github.io/Github-Homepage-UI-Clone/
